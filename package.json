@@ -24,6 +24,8 @@
     "frame",
     "stat",
     "cli",
-    "toolkit"
+    "toolkit",
+    "v1",
+    "stable"
   ]
 }
