@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/auditframe",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Audit lightweight frame statistics from stdin samples.",
+  "bin": {
+    "auditframe": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/auditframe.git"
+  },
+  "homepage": "https://theworker02.github.io/auditframe/",
+  "keywords": [
+    "audit",
+    "frame",
+    "stat",
+    "cli",
+    "toolkit"
+  ]
+}
